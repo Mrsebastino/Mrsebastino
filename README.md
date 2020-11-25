@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ...Personal project
-- 🌱 I’m currently learning ... Digging depper in FrontEnd, CSS and JS
+- 🌱 I’m currently learning ... Full Stack on Udemy with added Node and React content
 - 👯 I’m looking to collaborate on ...Project that welcome beginner
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
