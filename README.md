@@ -11,4 +11,4 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I was once stucked 3 days in the Sahara due to a flood.
 
-[![Mrsebastino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsesabastino)](https://github.com/mrsebastino/github-readme-stats)
+[![Mrsebastino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsebastino)](https://github.com/mrsebastino/github-readme-stats)
