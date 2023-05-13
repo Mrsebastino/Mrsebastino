@@ -1,9 +1,8 @@
-### Awaiting result from the Code Institute
+### Full Stack Software Developer
 
 
 
-- 🔭 I’m currently working on ...Personal project
-- 🌱 I’m currently learning ... Full Stack on Udemy with added Node and React content
+- 🔭 I’m currently working at ... Soar
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
