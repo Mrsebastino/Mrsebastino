@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working at ... Soar
+- 🔭 I’m currently looking for work.
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
