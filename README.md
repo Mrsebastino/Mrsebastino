@@ -11,5 +11,3 @@
 - ⚡ Fun fact: ... I was once stucked 3 days in the Sahara due to a flood.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsebastino&layout=compact)](https://github.com/mrsebastino/github-readme-stats)
-
-[![Mrsebastino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsebastino)](https://github.com/mrsebastino/github-readme-stats)
